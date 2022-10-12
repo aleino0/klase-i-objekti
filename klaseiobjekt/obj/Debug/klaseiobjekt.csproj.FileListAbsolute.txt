@@ -1,0 +1,7 @@
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\bin\Debug\klaseiobjekt.exe.config
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\bin\Debug\klaseiobjekt.exe
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\bin\Debug\klaseiobjekt.pdb
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\obj\Debug\klaseiobjekt.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\obj\Debug\klaseiobjekt.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\obj\Debug\klaseiobjekt.exe
+C:\Users\ucenik\source\repos\klaseiobjekt\klaseiobjekt\obj\Debug\klaseiobjekt.pdb
